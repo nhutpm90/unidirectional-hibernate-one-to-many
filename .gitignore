@@ -1,10 +1,5 @@
 .classpath
 .project
-.settings/org.eclipse.core.resources.prefs
-.settings/org.eclipse.jdt.core.prefs
-.settings/org.eclipse.m2e.core.prefs
-.settings/org.eclipse.wst.common.project.facet.core.xml
-target/classes/application.properties
-target/classes/META-INF/MANIFEST.MF
-target/classes/META-INF/maven/com.myapp.hibernate/hibernate-relational-mapping/pom.properties
-target/classes/META-INF/maven/com.myapp.hibernate/hibernate-relational-mapping/pom.xml
+target/
+.settings/
+logs/
